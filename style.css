@@ -1,0 +1,26 @@
+.container1{
+    border:1px solid black ;
+    padding: 20px;
+
+}
+.container2{
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.container1 div{
+    background-color: aquamarine;
+    margin: 5px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.container2 div{
+    background-color: brown;
+    color: wheat;
+    margin: 5px;
+    text-align: center;
+    border: 1px solid black;
+
+}
